@@ -1,0 +1,97 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.List{
+    display: flex;
+}
+.Pizza{
+    display: flex;
+    justify-content: space-around;
+    flex-flow: wrap;
+    margin: 8px 0;
+}
+.main{
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}
+.main img{
+    width: 100%;
+    height: 100%;
+}
+@media screen and (max-width:768px){
+.main{
+    width: 96%;
+    height: 300px;
+  }
+  input{
+      margin: 4px 0;
+      width: 50%;
+      padding: 5px 5px;
+      margin: 0 4px;
+      border-top:none;
+      border-bottom: 2px solid #000000;
+      border-left: none;
+      border-right: none;
+  }
+  button{
+      padding: 6px 5px;
+      margin: 4px 0;
+      outline: none;
+      border: none;
+      color: aliceblue;
+      text-transform: uppercase;
+      background: #080808;
+  }
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    height: 3rem;
+    align-items: center;
+    background: #273746;
+    color: rgb(231, 227, 222);
+    text-transform: uppercase;
+    font-weight: 200;
+}
+button{
+    padding: 10px 15px;
+    margin: 10px 0;
+    outline: none;
+    border: none;
+    color: aliceblue;
+    text-transform: uppercase;
+    background: #080808;
+}
+input{
+    margin: 4px 0;
+    width: 200px;
+    padding: 5px 5px;
+    margin: 0 4px;
+    border-top:none;
+    border-bottom: 2px solid #000000;
+    border-left: none;
+    border-right: none;
+}
+input:focus{
+    outline:none
+}
