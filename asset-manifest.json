@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pizza-recipe/static/css/main.708fc5e8.chunk.css",
+    "main.js": "/pizza-recipe/static/js/main.6b2c3ef7.chunk.js",
+    "main.js.map": "/pizza-recipe/static/js/main.6b2c3ef7.chunk.js.map",
+    "runtime-main.js": "/pizza-recipe/static/js/runtime-main.91ecea43.js",
+    "runtime-main.js.map": "/pizza-recipe/static/js/runtime-main.91ecea43.js.map",
+    "static/js/2.b9117d20.chunk.js": "/pizza-recipe/static/js/2.b9117d20.chunk.js",
+    "static/js/2.b9117d20.chunk.js.map": "/pizza-recipe/static/js/2.b9117d20.chunk.js.map",
+    "index.html": "/pizza-recipe/index.html",
+    "precache-manifest.938214fb0a0f7e63bfae475669963f9d.js": "/pizza-recipe/precache-manifest.938214fb0a0f7e63bfae475669963f9d.js",
+    "service-worker.js": "/pizza-recipe/service-worker.js",
+    "static/css/main.708fc5e8.chunk.css.map": "/pizza-recipe/static/css/main.708fc5e8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91ecea43.js",
+    "static/js/2.b9117d20.chunk.js",
+    "static/css/main.708fc5e8.chunk.css",
+    "static/js/main.6b2c3ef7.chunk.js"
+  ]
+}
